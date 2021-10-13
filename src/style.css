@@ -1,6 +1,5 @@
 body {
   font: sans-serif;
-  color: #333333;
 }
 
 h1 {
@@ -19,7 +18,7 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: #333333;
+
   font-size: 16px;
   font-weight: 350px;
   line-height: 19px;
@@ -35,7 +34,7 @@ li:first-letter {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
-  border: 6px solid #000000;
+  border: 4px solid #000000;
 }
 .overview {
   margin-bottom: 20px;
