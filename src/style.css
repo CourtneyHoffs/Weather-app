@@ -55,3 +55,10 @@ li:first-letter {
   font-weight: 400;
   top: -34px;
 }
+.weather-temperature .active {
+  color: #333333;
+  cursor: default;
+}
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
