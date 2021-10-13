@@ -33,7 +33,7 @@ li:first-letter {
 .weather-app {
   max-width: 600px;
   margin: 40px auto;
-  padding: 20px;
+  padding: 30px;
   border: 4px solid #000000;
 }
 .overview {
