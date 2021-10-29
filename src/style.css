@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  background-color: thistle;
 }
 
 h1 {
@@ -13,6 +14,7 @@ h1 {
 ul {
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 li {
